@@ -1,4 +1,4 @@
 # antlr
-Mini Guia de ANTLR
-jsrodriguez
+Mini Guia de ANTLR\br
+jsrodriguez \br
 ITS San Andrés Tuxtla
